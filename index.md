@@ -49,10 +49,9 @@ sections:
             url: /features
             style: secondary
       - title: Pretentious little shit
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Stop compaining about skidding the saying you skid yourself, and I
+          doubt anyone would want to skid the shitstain you call coding
         align: left
         image: images/Screenshot 2021-01-13 12-51-46.png
         image_alt: Feature 3 placeholder image
