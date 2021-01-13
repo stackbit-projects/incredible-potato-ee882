@@ -4,6 +4,8 @@ sections:
   - type: hero_section
     title: Blog
     align: center
-    subtitle: honestly kinda dissapointed that you though suc
+    subtitle: >-
+      honestly kinda disappointed that you thought such a shitty person would
+      make good blog posts
 layout: advanced
 ---
