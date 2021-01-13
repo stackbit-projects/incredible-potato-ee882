@@ -31,7 +31,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/feature.svg
+        image: images/Screenshot 2021-01-13 12-46-12.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
