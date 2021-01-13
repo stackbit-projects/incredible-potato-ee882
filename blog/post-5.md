@@ -9,10 +9,7 @@ tags:
   - Netlify
 image: images/ErhRK5SW8AAEKNb.jpeg
 image_alt: Post 5 placeholder image
-excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+excerpt: 'Stack bit trying to push their shitty advertisements here, fuck u'
 layout: post
 ---
 
