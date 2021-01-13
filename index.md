@@ -38,10 +38,8 @@ sections:
             url: /features
             style: secondary
       - title: Get some fucking help
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Like how the fuck does everything make you want to die
         align: left
         image: images/Screenshot 2021-01-13 12-50-12.png
         image_alt: Feature 2 placeholder image
