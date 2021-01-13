@@ -6,7 +6,7 @@ categories:
   - _data/categories/general.yaml
 tags:
   - PLEASE GIVE THE KIDS BACK STACK BIT
-  - JAMstack
+  - IVE BEEN KIDNAPPED BY STACKBIT HELP PLEASE HELP OH GOD NO OH FUCK NO SHIT
 image: images/ErhRK5SW8AAEKNb.jpeg
 image_alt: Post 3 placeholder image
 excerpt: agree?
