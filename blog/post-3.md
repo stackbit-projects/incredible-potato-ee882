@@ -5,7 +5,7 @@ author: _data/team/gordon-norman.yaml
 categories:
   - _data/categories/general.yaml
 tags:
-  - Stackbit
+  - PLEASE GIVE THE KIDS BACK STACK BIT
   - JAMstack
 image: images/ErhRK5SW8AAEKNb.jpeg
 image_alt: Post 3 placeholder image
