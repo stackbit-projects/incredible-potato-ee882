@@ -6,7 +6,7 @@ categories:
   - _data/categories/tutorials.yaml
   - _data/categories/news.yaml
 tags:
-  - JAMstack
+  - owo
   - uwu
 image: images/scientific-ant.jpeg
 image_alt: Post 4 placeholder image
