@@ -12,7 +12,7 @@ sections:
           [I mean look at this shit](https://hst.sh/wolirefihi.java), I've never
           seen something so fucking disgusting in my entire life
         align: left
-        image: images/feature.svg
+        image: images/Screenshot 2021-01-13 12-55-09.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
