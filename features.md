@@ -8,10 +8,9 @@ sections:
   - type: features_section
     features:
       - title: Bitch seriously can't code
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          [I mean look at this shit](https://hst.sh/wolirefihi.java), I've never
+          seen something so fucking disgusting in my entire life
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
