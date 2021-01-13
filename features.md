@@ -20,10 +20,8 @@ sections:
             url: /about
             style: primary
       - title: Legit never seen someone so toxic in my entire life
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          You should be ashamed out yourself.
         align: left
         image: images/Screenshot 2021-01-13 12-56-47.png
         image_alt: Feature 2 placeholder image
