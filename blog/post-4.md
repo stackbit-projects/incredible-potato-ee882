@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: Is it ok if this image makes me cum
 date: '2020-05-30'
 author: _data/team/dianne-ameter.yaml
 categories:
