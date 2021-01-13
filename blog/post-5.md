@@ -5,7 +5,7 @@ author: _data/team/gordon-norman.yaml
 categories:
   - _data/categories/tutorials.yaml
 tags:
-  - Stackbit
+  - Stackbittriedtoadvertiseheresoifuckedthem
   - Netlify
 image: images/ErhRK5SW8AAEKNb.jpeg
 image_alt: Post 5 placeholder image
