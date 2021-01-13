@@ -21,7 +21,7 @@ sections:
             style: primary
       - title: Legit never seen someone so toxic in my entire life
         content: |
-          You should be ashamed out yourself.
+          You should be ashamed of yourself.
         align: left
         image: images/Screenshot 2021-01-13 12-56-47.png
         image_alt: Feature 2 placeholder image
