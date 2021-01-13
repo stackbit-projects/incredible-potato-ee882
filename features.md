@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Features
+    title: More examples of this bitch being a bitch
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
