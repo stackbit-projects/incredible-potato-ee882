@@ -26,10 +26,10 @@ sections:
     title: Features
     features:
       - title: Bitch can't even do shit
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          like this shitter complains about other people not being able to code
+
+          and then fucking says that they can't python
         align: left
         image: images/Screenshot 2021-01-13 12-46-12.png
         image_alt: Feature 1 placeholder image
