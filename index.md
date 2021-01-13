@@ -26,9 +26,8 @@ sections:
     title: Features
     features:
       - title: Bitch can't even do shit
-        content: |
+        content: >
           like this shitter complains about other people not being able to code
-
           and then fucking says that they can't python
         align: left
         image: images/Screenshot 2021-01-13 12-46-12.png
