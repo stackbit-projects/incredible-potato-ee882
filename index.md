@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: I can't make websites btw
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Which is why i used this shitstain of a site builder
     actions:
       - label: Learn More
         url: /features
