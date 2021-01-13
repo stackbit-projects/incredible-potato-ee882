@@ -7,7 +7,7 @@ categories:
   - _data/categories/news.yaml
 tags:
   - JAMstack
-  - Sourcebit
+  - uwu
 image: images/scientific-ant.jpeg
 image_alt: Post 4 placeholder image
 excerpt: I need opinions
