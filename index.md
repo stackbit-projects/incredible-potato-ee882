@@ -67,8 +67,8 @@ sections:
   - type: cta_section
     title: idk what the fuck this if for
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      I fucking swear there are like 200 different "learn more" buttons on this
+      fucking page
     actions:
       - label: Learn More
         url: /features
